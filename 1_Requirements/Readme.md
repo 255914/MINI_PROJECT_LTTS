@@ -1,38 +1,38 @@
 
-#Requirements
-##Introduction
+# Requirements
+## Introduction
 --- TBD
 
-##Research
+## Research
 ![Description](Link to Pic) -- Content
 
-##Cost and Features
+## Cost and Features
 ![Description](Link to Pic) -- Content
 
-##Defining Our System
+## Defining Our System
 -- TBD
-#SWOT ANALYSIS
+# SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
-#4W's and 1'H
-##Who:
+# 4W's and 1'H
+## Who:
 TBD
 
-##What:
+## What:
 TBD
 
-##When:
+## When:
 TBD
 
-##Where:
+## Where:
 TBD
 
-##How:
+## How:
 TBD
 
-#Detail requirements
-##High Level Requirements:
+# Detail requirements
+## High Level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
 
-##Low level Requirements:
+## Low level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
