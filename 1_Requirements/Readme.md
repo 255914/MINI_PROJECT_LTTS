@@ -17,7 +17,7 @@
 ## Defining Our System
 -- TBD
 # SWOT ANALYSIS
-![SWOT-Sample](https://online.visual-paradigm.com/community/share/mini-proj-swot-analysis-if0zz4lcv)
+![swot](https://user-images.githubusercontent.com/80656121/114064009-d6ca8b00-98b6-11eb-95da-3c23967f1ff6.PNG)
 
 # 4W's and 1'H
 ## Who:
