@@ -13,9 +13,11 @@
 * These games have a win-or-lose or tie outcome and determined by a set of positions, including an initial position, and the player whose turn it is to move. 
 * Play moves from one position to another, with the players usually alternating moves, until a terminal position is reached. 
 * A terminal position is one from which no moves are possible. Then one of the players is declared the winner and the other the loser. 
-* Or there is a tie (Depending on the rules of the combinatorial game, the game could end up in a tie. 
+* Or there is a tie depending on the rules of the combinatorial game, the game could end up in a tie. 
 * The only thing that can be stated about the combinatorial game is that the game should end at some point and should not be stuck in a loop. 
+<p> The diagram shows the classification of Combinatorial Game
 ![Capture](https://user-images.githubusercontent.com/80656121/114136449-55abdc00-9928-11eb-9494-0f9cf4538649.PNG)
+
 <p>The Candy Game is a variation of _Staircase Nim problem_. The Staircase Nim problem is a not very well-known variation of classic Nim problem. If you are unaware of what 
 
 is, I suggest you to first learn about it.
