@@ -15,7 +15,8 @@
 * A terminal position is one from which no moves are possible. Then one of the players is declared the winner and the other the loser. 
 * Or there is a tie (Depending on the rules of the combinatorial game, the game could end up in a tie. 
 * The only thing that can be stated about the combinatorial game is that the game should end at some point and should not be stuck in a loop. 
-![Description](Link to Pic) -- Content
+![Capture](https://user-images.githubusercontent.com/80656121/114136449-55abdc00-9928-11eb-9494-0f9cf4538649.PNG)
+
 
 ## Cost and Features
 ![Description](Link to Pic) -- Content
