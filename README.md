@@ -20,18 +20,21 @@ Folder                   | Description
 `2_Architecture`         | Behavioural and Structural UML Diagrams(Both High Level and Low Level)
 `3_Design`               | Documents specifying design details
 `4_Implementation`       | All code and documentation
-`4_Test_plan`            | Documents with test plans and procedures
+`5_TestPlanAndOutput`    | Documents with test plans and procedures and Output
+`6_Report`               | Documentation of whole project
+`7_ImagesAndVideos`      | Code Execution Images and Videos
+
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-255914 | Souhardya Sengupta  | Feature A, B etc    | X No     | X No   |X No   |X No     
+PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------------------|----------------|----------------|---------------|-------------|--------------
+255914 | Souhardya Sengupta  | Entire Project(Requirements,Design,Implementation and TestPlanAndOutput  | Readme Enhancement, UML Diagrams and SWOT ANalysis  | All Issues Resolved | 4 Function Based and 10 Overall Test cases  | All Passed     
   
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Creation of Github Workflows - Resolved by Code Inspection and Critical Thinking
+2. Creation of UML diagrams - Resolved by researching about them.
+3. State of Art and Aging - Resolved through Brainstorming
+4. Cost Ananlysis and SWOT Analysis - Resolved through Brainstorming
