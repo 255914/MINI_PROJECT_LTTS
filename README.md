@@ -1,5 +1,5 @@
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4c54d612bcb49d79b47996cb851a453)](https://app.codacy.com/gh/255914/MINI_PROJECT_LTTS?utm_source=github.com&utm_medium=referral&utm_content=255914/MINI_PROJECT_LTTS&utm_campaign=Badge_Grade_Settings)
+
 
 ![Capture](https://user-images.githubusercontent.com/80656121/114134914-21372080-9926-11eb-8b69-21d155a530d9.PNG)
 <p>This is a two-player game where there are a certain number of stacks of candies. Each stack contains certain number of candies. The stacks are arranged in non-decreasing order from left to right based on the number of candies in each stack. <p>Let the two players be named as Tom and Jerry. For every continuous subsequence of candies stacks, Tom and Jerry will play game on this subsequence of candies stacks, Tom plays first, and they play in turn. In one move, the player can choose one of the stacks and remove at least one candy from it keeping in mind the non-decreasing order of the candies stacks which needs to be maintained. The last person to make a valid move wins.
@@ -8,8 +8,9 @@
 
 
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+|Build|Unit Test|cppcheck|Valgrind|Codacy|
+|:--:|:--:|:--:|:--:|:--:|
+|[![C/C++ CI - Build Status](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/c-build.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/unit-test.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/unit-test.yml)|[![cppcheck-action](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/Valgrind.yml)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4c54d612bcb49d79b47996cb851a453)](https://app.codacy.com/gh/255914/MINI_PROJECT_LTTS?utm_source=github.com&utm_medium=referral&utm_content=255914/MINI_PROJECT_LTTS&utm_campaign=Badge_Grade_Settings)|
 
 
 
@@ -29,7 +30,7 @@ Folder                   | Description
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-255914 | Souhardya Sengupta  | Entire Project (Requirements,Design,Implementation and TestPlanAndOutput  | Readme Enhancement, UML Diagrams and SWOT ANalysis  | All Issues Resolved | 4 Function Based and 10 Overall Test cases  | All Passed     
+255914 | Souhardya Sengupta  | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | Readme Enhancement, UML Diagrams and SWOT ANalysis  | All Issues Resolved | 4 Function Based and 10 Overall Test cases  | All Passed     
   
 
 ## Challenges Faced and How Was It Overcome
