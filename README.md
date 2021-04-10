@@ -29,7 +29,7 @@ Folder                   | Description
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-255914 | Souhardya Sengupta  | Entire Project(Requirements,Design,Implementation and TestPlanAndOutput  | Readme Enhancement, UML Diagrams and SWOT ANalysis  | All Issues Resolved | 4 Function Based and 10 Overall Test cases  | All Passed     
+255914 | Souhardya Sengupta  | Entire Project (Requirements,Design,Implementation and TestPlanAndOutput  | Readme Enhancement, UML Diagrams and SWOT ANalysis  | All Issues Resolved | 4 Function Based and 10 Overall Test cases  | All Passed     
   
 
 ## Challenges Faced and How Was It Overcome
