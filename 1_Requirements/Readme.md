@@ -72,10 +72,14 @@ _“If both A and B play optimally, then the player starting first is guaranteed
 
 
 ## Cost and Features
-![Description](Link to Pic) -- Content
+
 
 ## Defining Our System
--- TBD
+<p>This is a two-player game where there are a certain number of stacks of candies. Each stack contains certain number of candies. The stacks are arranged in non-decreasing order from left to right based on the number of candies in each stack.
+
+<p>Let the two players be named as Tom and Jerry. For every continuous subsequence of candies stacks, Tom and Jerry will play game on this subsequence of candies stacks, Tom plays first, and they play in turn. In one move, the player can choose one of the stacks and remove at least one candy from it keeping in mind the non-decreasing order of the candies stacks which needs to be maintained. The last person to make a valid move wins.
+
+<p>We need to find the continuous subsequences of candies stacks that will make Tom win if both of them play optimally. The number of candies of each stack will be recovered after the game ends for each subsequences.
 # SWOT ANALYSIS
 ![swot](https://user-images.githubusercontent.com/80656121/114064517-5c4e3b00-98b7-11eb-95cd-4feb7a541d2b.PNG)
 
