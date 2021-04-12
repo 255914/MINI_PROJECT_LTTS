@@ -8,8 +8,8 @@
 
 
 
-|Build|Unit Test|cppcheck|Valgrind|Codacy|[Git Inspector](using github.io option)
-|:--:|:--:|:--:|:--:|:--:|
+|Build|Unit Test|cppcheck|Valgrind|Codacy|[Git Inspector](using github.io option)|
+
 |[![C/C++ CI - Build Status](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/c-build.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/unit-test.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/unit-test.yml)|[![cppcheck-action](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/255914/MINI_PROJECT_LTTS/actions/workflows/Valgrind.yml)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4c54d612bcb49d79b47996cb851a453)](https://app.codacy.com/gh/255914/MINI_PROJECT_LTTS?utm_source=github.com&utm_medium=referral&utm_content=255914/MINI_PROJECT_LTTS&utm_campaign=Badge_Grade_Settings)|
 
 
