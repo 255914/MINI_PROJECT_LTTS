@@ -81,19 +81,19 @@ _“If both A and B play optimally, then the player starting first is guaranteed
 
 # 4W's and 1'H
 ## Who:
-TBD
+<p>This is a structured form of entertainment and will cater to all the young minds as an educational tool to nurture the brain. Thus, this game will as a tool of fun for the young generation to develop keen observation to dertermine the output of the game to win it.
 
 ## What:
-TBD
+<p>Most of the parents do not like that their wards would be adddicted to a game. But, This Candy Game is not addictive at all instead it nurtures the intelligence within an individual to solve it effectively. So, the game being cost-effective can be used by all persons of all ages.
 
 ## When:
-TBD
+<p>Humans irrespective of their age are always curious when it comes to a game which requires developing keen observation. So, such a game is welcomed at all times.
 
 ## Where:
-TBD
+<p>This game will meet the interests of all people of all nations.
 
 ## How:
-TBD
+<p>Many games are very expensive. This game being cost-effective can be purchased by all sections of the society.
 
 # Detail requirements
 ## High Level Requirements:
