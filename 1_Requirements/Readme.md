@@ -100,18 +100,18 @@ _“If both A and B play optimally, then the player starting first is guaranteed
 |**ID**|**DESCRIPTION**|**CATEGORY**|**STATUS**|
 | :- | :- | :- | :- |
 |**HLR01**|**The player who starts first needs to be noted**|**Technical**|**Implemented**|
-|- **HLR02**|**The configuration of the stacks of candies need to be noted**|**Technical**|**Implemented**|
-|- **HLR03**|**The hardware implementation**|**Technical**|**Future**|
-|- **HLR04**|**Decision Making and keen observation**|**Scenario**|**Implemented**|
+|**HLR02**|**The configuration of the stacks of candies need to be noted**|**Technical**|**Implemented**|
+|**HLR03**|**The hardware implementation**|**Technical**|**Future**|
+|**HLR04**|**Decision Making and keen observation**|**Scenario**|**Implemented**|
 
 
 ## Low level Requirements:
 
 |**ID**|**DESCRIPTION**|**CATEGORY**|**HLR ID**|**STATUS**|
 | :- | :- | :- | :- | :- |
-|- **LLR01**|**The candies piles are in non-decreasing order**  |**Technical**|**HLR 01,02**|**Implemented**|
-|- **LLR02**|**This is a 2-playered game** |**Technical**|**HLR 01,02**|**Implemented**|
-|- **LLR03**|**The game should not be stuck in a loop**|**Technical**|**HLR 01,02,04**|**Implemented**|
+|**LLR01**|**The candies piles are in non-decreasing order**  |**Technical**|**HLR 01,02**|**Implemented**|
+|**LLR02**|**This is a 2-playered game** |**Technical**|**HLR 01,02**|**Implemented**|
+|**LLR03**|**The game should not be stuck in a loop**|**Technical**|**HLR 01,02,04**|**Implemented**|
 |**LLR04**|**Able to remove stack of candies for next move**|**Technical**|**HLR 01,02,04**|**Implemented**|
 
 
