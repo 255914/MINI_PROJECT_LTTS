@@ -1,4 +1,5 @@
-## This folder contains the Expected Ouput for a set of 10 Inputs Test Cases for the overall Project and matches the actual output ith it
+## This folder contains the Expected Ouput for a set of 10 Inputs Test Cases for the overall Project and matches the actual output with it.
+
 |**SL. No.**|**INPUT** |**EXPECTED OUTPUT**|**ACTUAL  OUPUT**|
 | :- | :- | :- | :- |
 |**1**|<p>**5**</p><p>**1 1 2 2 3**</p><p></p>|**5**|**5**|
