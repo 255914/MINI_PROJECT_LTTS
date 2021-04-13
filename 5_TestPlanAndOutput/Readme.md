@@ -12,6 +12,7 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|  L_01       |Sort the array|Unsorted array|Sorted array|Sorted array|Requirement based |
+|  L_02       |Merge the sorted array|Two sorted arrays|Merged Sorted array|Merged Sorted array|Requirement based  |
+|  L_03       |Get the position|Array with other parameters|Position of the required element|Position of the required element|Requirement based  |
+|  L_04       |Median of the array|Array with other parameters|Median of array|Median of array|Requirement based   |
