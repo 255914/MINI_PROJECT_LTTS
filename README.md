@@ -16,11 +16,10 @@ Folder                   | Description
 -------------------------| -----------------------------------------
 `1_Requirements`         | Documents detailing requirements and research
 `2_Architecture`         | Behavioural and Structural UML Diagrams(Both High Level and Low Level)
-`3_Design`               | Documents specifying design details
-`4_Implementation`       | All code and documentation
-`5_TestPlanAndOutput`    | Documents with test plans and procedures and Output
-`6_Report`               | Documentation of whole project
-`7_ImagesAndVideos`      | Code Execution Images and Videos
+`3_Implementation`       | All code and documentation
+`4_TestPlanAndOutput`    | Documents with test plans and procedures and Output
+`5_Report`               | Documentation of whole project
+`6_ImagesAndVideos`      | Code Execution Images and Videos
 
 
 ## Contributors List and Summary
